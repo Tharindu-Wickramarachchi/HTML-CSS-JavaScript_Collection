@@ -31,3 +31,6 @@ A simple Calculator application built with HTML, CSS, and JavaScript. It allows 
 
 
 ## Calculator Application Demonstration
+
+https://github.com/user-attachments/assets/3f6ced33-06cd-4e5b-a827-820177d3ec8c
+

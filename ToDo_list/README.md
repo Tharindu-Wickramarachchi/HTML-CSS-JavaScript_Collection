@@ -23,10 +23,12 @@
 
 ## Application User Interface 
 
- <p align="center" width="100%">   <img src="https://github.com/Tharindu-Wickramarachchi/HTML-CSS-JS_Collection/blob/main/ToDo_list/demo/Screenshot-1.png" alt="Screenshot-1">   
+ <p align="center" width="100%">  
+  <img src="https://github.com/Tharindu-Wickramarachchi/HTML-CSS-JavaScript_Collection/blob/main/ToDo_list/demo/Screenshot-1.png" alt="Screenshot-1">   
  </p>   
 
- <p align="center" width="100%">   <img src="https://github.com/Tharindu-Wickramarachchi/HTML-CSS-JS_Collection/blob/main/ToDo_list/demo/Screenshot-2.png" alt="Screenshot-2"> 
+ <p align="center" width="100%">
+  <img src="https://github.com/Tharindu-Wickramarachchi/HTML-CSS-JavaScript_Collection/blob/main/ToDo_list/demo/Screenshot-2.png" alt="Screenshot-2"> 
  </p>
 
 ## ToDo List Application Demonstration
